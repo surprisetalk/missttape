@@ -1,0 +1,37 @@
+{
+    "name": "missttape",
+    "main": "dist/missttape.js",
+    "homepage": "https://github.com/surprisetalk/missttape",
+    "authors": [
+	"Taylor Sarrafian <taylorsarrafian@gmail.com>"
+    ],
+    "description": "multimedia autoplayer",
+    "moduleType": [
+	"es6"
+    ],
+    "keywords": [
+	"missttape",
+	"multimedia",
+	"media",
+	"autoplayer"
+    ],
+    "license": "MIT",
+    "ignore": [
+	"**/.*",
+	"makefile",
+	"src",
+	"node_modules",
+	"bower_components",
+	"test",
+	"tests",
+	"examples",
+	".bowerrc",
+	".gitignore",
+	"gruntfile.js",
+	"package.json",
+	"README.md"
+    ],
+    "dependencies": {
+	"jquery": "~2.2.0"
+    }
+}
