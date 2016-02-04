@@ -1,4 +1,4 @@
 
 # missttape
-JQuery Autoplayer
+jQuery Autoplayer
 
